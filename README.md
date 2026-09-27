@@ -51,7 +51,7 @@ Open source and free on [pub.dev](https://pub.dev/publishers/yako.dev/packages).
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/yadaniyil/SimLease"><img src="https://raw.githubusercontent.com/yadaniyil/SimLease/main/site/og.png" width="360" alt="SimLease: three phone simulators joined in a ring, with the tagline One click. Safe Simulators."></a><br>
+      <a href="https://github.com/yadaniyil/SimLease"><img src="https://raw.githubusercontent.com/yadaniyil/SimLease/main/plugins/simlease/assets/simlease-icon.png" width="160" alt="SimLease icon: three blue phones stacked together."></a><br>
       <a href="https://github.com/yadaniyil/SimLease"><b>SimLease</b></a><br>
       <sub>For developers who run AI coding agents. Each agent gets its own iOS Simulator or Android emulator, so parallel builds and tests never collide.</sub>
     </td>
