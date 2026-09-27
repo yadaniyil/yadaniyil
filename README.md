@@ -1,6 +1,6 @@
 ## Flutter packages
 
-Open source and free on [pub.dev](https://pub.dev/publishers/yako.dev/packages). 1,900+ stars on GitHub.
+Open source and free on [pub.dev](https://pub.dev/publishers/yako.dev/packages). ⭐ 2,000+ stars on GitHub.
 
 <table>
   <tr>
