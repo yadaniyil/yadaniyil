@@ -62,3 +62,50 @@ Open source and free on [pub.dev](https://pub.dev/publishers/yako.dev/packages).
     </td>
   </tr>
 </table>
+
+<!-- badge-preview:start -->
+---
+
+## Badge preview (temporary)
+
+### 1. Profile views
+![Profile views](https://komarev.com/ghpvc/?username=yadaniyil&label=Profile%20views&color=0A84FF&style=flat)
+
+### 2. Followers
+![GitHub followers](https://img.shields.io/github/followers/yadaniyil?style=social)
+
+### 3. pub.dev likes, points and monthly downloads
+| Package | Likes | Points | Downloads |
+|---|---|---|---|
+| [settings_ui](https://pub.dev/packages/settings_ui) | ![likes](https://img.shields.io/pub/likes/settings_ui) | ![points](https://img.shields.io/pub/points/settings_ui) | ![downloads](https://img.shields.io/pub/dm/settings_ui) |
+| [badges](https://pub.dev/packages/badges) | ![likes](https://img.shields.io/pub/likes/badges) | ![points](https://img.shields.io/pub/points/badges) | ![downloads](https://img.shields.io/pub/dm/badges) |
+| [yako_celebrations](https://pub.dev/packages/yako_celebrations) | ![likes](https://img.shields.io/pub/likes/yako_celebrations) | ![points](https://img.shields.io/pub/points/yako_celebrations) | ![downloads](https://img.shields.io/pub/dm/yako_celebrations) |
+| [status_alert](https://pub.dev/packages/status_alert) | ![likes](https://img.shields.io/pub/likes/status_alert) | ![points](https://img.shields.io/pub/points/status_alert) | ![downloads](https://img.shields.io/pub/dm/status_alert) |
+| [full_screen_menu](https://pub.dev/packages/full_screen_menu) | ![likes](https://img.shields.io/pub/likes/full_screen_menu) | ![points](https://img.shields.io/pub/points/full_screen_menu) | ![downloads](https://img.shields.io/pub/dm/full_screen_menu) |
+| [yako_theme_switch](https://pub.dev/packages/yako_theme_switch) | ![likes](https://img.shields.io/pub/likes/yako_theme_switch) | ![points](https://img.shields.io/pub/points/yako_theme_switch) | ![downloads](https://img.shields.io/pub/dm/yako_theme_switch) |
+| [diagonal_decoration](https://pub.dev/packages/diagonal_decoration) | ![likes](https://img.shields.io/pub/likes/diagonal_decoration) | ![points](https://img.shields.io/pub/points/diagonal_decoration) | ![downloads](https://img.shields.io/pub/dm/diagonal_decoration) |
+
+### 4. Tech stack icons
+![Flutter, Dart, Swift, Firebase, TypeScript](https://skillicons.dev/icons?i=flutter,dart,swift,firebase,ts)
+
+### 5. Contact buttons
+[![yako.dev](https://img.shields.io/badge/yako.dev-website-0A84FF?style=for-the-badge)](https://yako.dev) [![Email](https://img.shields.io/badge/Email-contact-555?style=for-the-badge)](mailto:yako@yako.dev)
+
+### 6. Typing header
+![Typing header](https://readme-typing-svg.demolab.com/?lines=Open-source+Flutter+packages;Tools+for+developers&center=false&width=500&height=40&color=0A84FF&size=24)
+
+### 7. Commit streak
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=yadaniyil&hide_border=true&theme=dark">
+  <img src="https://streak-stats.demolab.com/?user=yadaniyil&hide_border=true" alt="Commit streak">
+</picture>
+
+### 8. Contribution snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yadaniyil/yadaniyil/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/yadaniyil/yadaniyil/output/github-snake.svg" alt="A snake eating the contribution graph">
+</picture>
+
+### 9. Stats, top languages, trophies and activity calendar (Metrics)
+![Metrics](https://raw.githubusercontent.com/yadaniyil/yadaniyil/main/metrics.svg)
+<!-- badge-preview:end -->
